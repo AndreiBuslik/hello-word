@@ -12,4 +12,4 @@ Para tornar os arquivos README mais apresentáveis é possível usar o sistema d
 
 Podemos utilizar estilos nos textos como **negrito** e *itálico*. Também podemos usar emojis (:)  :construction: :white_check_mark:  ), bem como adicionar imagens:
 
-![Gith logo](https://logosmarcas.net/github-logo/)
+![Gith logo](https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo-650x366.png)
