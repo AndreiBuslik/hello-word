@@ -13,3 +13,5 @@ Para tornar os arquivos README mais apresentáveis é possível usar o sistema d
 Podemos utilizar estilos nos textos como **negrito** e *itálico*. Também podemos usar emojis (:)  :construction: :white_check_mark:  ), bem como adicionar imagens:
 
 ![Gith logo](https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo-650x366.png)
+
+Para editar arquivos de *Markdown* você pode usar qualquer editor de texto comum, mas eu recomendo o [Typora](https://typora.io/) (ele é pago mas pode ser usado grátis por 15 dias) ou o [Visual Studio Code](https://code.visualstudio.com//) (grátis, porém devem ser baixados *plugins* para utilizar melhor a formatação *Markdown*).
